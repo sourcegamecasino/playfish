@@ -1,0 +1,120 @@
+{
+  "ID": "61c82b0b-e5be-47c0-b6f9-e8784208e3f8",
+  "Version": "2.3.4",
+  "Name": "JFNodeHPBoss",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 268,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_HP_BAR.png",
+              "Plist": "MenuGame/UnknowItems/AtlasUnknowItems.plist"
+            },
+            "Scale9OriginX": 84,
+            "Scale9OriginY": 5,
+            "Scale9Width": 88,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -128.0,
+            "RightMargin": -128.0,
+            "TopMargin": -9.0,
+            "BottomMargin": -9.0,
+            "Tag": 78,
+            "ActionTag": 802682128,
+            "Size": {
+              "X": 256.0,
+              "Y": 18.0
+            },
+            "Name": "HPProcessBar",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ProgressInfo": 100,
+            "ImageFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_HP_CURRENT_0.png",
+              "Plist": "MenuGame/UnknowItems/AtlasUnknowItems.plist"
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0001,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -127.9999,
+            "RightMargin": -128.0001,
+            "TopMargin": -9.0,
+            "BottomMargin": -9.0,
+            "Tag": 79,
+            "ActionTag": 260927178,
+            "Size": {
+              "X": 256.0,
+              "Y": 18.0
+            },
+            "Name": "HPProcess",
+            "ctype": "LoadingBarObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "MenuGame/UnknowItems/AtlasUnknowItems.plist",
+        "MenuGame/UnknowItems/AtlasUnknowItems.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

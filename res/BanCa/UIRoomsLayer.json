@@ -1,0 +1,1889 @@
+{
+  "ID": "756d7647-90d6-4f09-b7b4-f072104ba5c2",
+  "Version": "2.3.4",
+  "Name": "UIRoomsLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_MINIGAME.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 222,
+            "Scale9Height": 329,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1000.9425,
+              "Y": 368.9397
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.782,
+              "Y": 0.5124
+            },
+            "PreSize": {
+              "X": 0.1969,
+              "Y": 0.4875
+            },
+            "LeftMargin": 874.9425,
+            "RightMargin": 153.0575,
+            "TopMargin": 175.5603,
+            "BottomMargin": 193.4397,
+            "Tag": 52,
+            "ActionTag": -932639406,
+            "Size": {
+              "X": 252.0,
+              "Y": 351.0
+            },
+            "Name": "JFBtnRoomMiniGame",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_PHONGVIP.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 260,
+            "Scale9Height": 307,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 276.9907,
+              "Y": 370.3881
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2164,
+              "Y": 0.5144
+            },
+            "PreSize": {
+              "X": 0.2266,
+              "Y": 0.4569
+            },
+            "LeftMargin": 131.9907,
+            "RightMargin": 858.0093,
+            "TopMargin": 185.1119,
+            "BottomMargin": 205.8881,
+            "Tag": 51,
+            "ActionTag": -755160305,
+            "Size": {
+              "X": 290.0,
+              "Y": 329.0
+            },
+            "Name": "JFBtnRoomVip",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_CHOINGAY.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 378,
+            "Scale9Height": 402,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.1055,
+              "Y": 368.946
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5001,
+              "Y": 0.5124
+            },
+            "PreSize": {
+              "X": 0.3187,
+              "Y": 0.5889
+            },
+            "LeftMargin": 436.1055,
+            "RightMargin": 435.8945,
+            "TopMargin": 139.054,
+            "BottomMargin": 156.946,
+            "Tag": 50,
+            "ActionTag": -624480255,
+            "Size": {
+              "X": 408.0,
+              "Y": 424.0
+            },
+            "Name": "JFBtnRoomNormal",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "MenuGame/Buttons/IMG_BG_FOOTER_HOVER.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0039,
+              "Y": 0.3069
+            },
+            "LeftMargin": -2.5,
+            "RightMargin": -2.5,
+            "TopMargin": 499.0,
+            "Tag": 30,
+            "ActionTag": 1366724343,
+            "Size": {
+              "X": 1285.0,
+              "Y": 221.0
+            },
+            "VisibleForFrame": false,
+            "Name": "ImgFooterActive",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "MenuGame/Buttons/IMG_BG_FOOTER_HOVER.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "MenuGame/Buttons/IMG_BG_FOOTER.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 1255,
+            "Scale9Height": 199,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0039,
+              "Y": 0.3069
+            },
+            "LeftMargin": -2.5,
+            "RightMargin": -2.5,
+            "TopMargin": 499.0,
+            "Tag": 28,
+            "ActionTag": -1833829139,
+            "Size": {
+              "X": 1285.0,
+              "Y": 221.0
+            },
+            "Name": "JFBtnReward",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_HELP_HOVER.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_HELP_NORMAL.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 22,
+            "Scale9Width": 95,
+            "Scale9Height": 81,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 52.8019,
+              "Y": 388.1653
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0413,
+              "Y": 0.5391
+            },
+            "PreSize": {
+              "X": 0.0977,
+              "Y": 0.1736
+            },
+            "LeftMargin": -9.6981,
+            "RightMargin": 1164.6981,
+            "TopMargin": 269.3347,
+            "BottomMargin": 325.6653,
+            "Tag": 20,
+            "ActionTag": 1597775808,
+            "Size": {
+              "X": 125.0,
+              "Y": 125.0
+            },
+            "Name": "JFBtnHelp",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_HOPTHU_HOVER.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_HOPTHU_NORMAL.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 100,
+            "Scale9Height": 107,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 52.8019,
+              "Y": 288.1665
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0413,
+              "Y": 0.4002
+            },
+            "PreSize": {
+              "X": 0.1016,
+              "Y": 0.1792
+            },
+            "LeftMargin": -12.1981,
+            "RightMargin": 1162.1981,
+            "TopMargin": 367.3335,
+            "BottomMargin": 223.6665,
+            "Tag": 21,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_NOTIFYCATENEW.png",
+                  "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+                },
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 6,
+                "Scale9Width": 8,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.0,
+                  "Y": 88.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7462,
+                  "Y": 0.6822
+                },
+                "PreSize": {
+                  "X": 0.1538,
+                  "Y": 0.155
+                },
+                "LeftMargin": 87.0,
+                "RightMargin": 23.0,
+                "TopMargin": 31.0,
+                "BottomMargin": 78.0,
+                "Tag": 48,
+                "ActionTag": 1616454223,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 20.0
+                },
+                "VisibleForFrame": false,
+                "Name": "IconNotifyMail",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 2085902639,
+            "Size": {
+              "X": 130.0,
+              "Y": 129.0
+            },
+            "Name": "JFBtnMail",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_SETTING_HOVER.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_SETTING_NORMAL.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 95,
+            "Scale9Height": 103,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 52.8019,
+              "Y": 188.1674
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0413,
+              "Y": 0.2613
+            },
+            "PreSize": {
+              "X": 0.0977,
+              "Y": 0.1736
+            },
+            "LeftMargin": -9.6981,
+            "RightMargin": 1164.6981,
+            "TopMargin": 469.3326,
+            "BottomMargin": 125.6674,
+            "Tag": 22,
+            "ActionTag": -499518479,
+            "Size": {
+              "X": 125.0,
+              "Y": 125.0
+            },
+            "Name": "JFBtnSetting",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_XEPHANG.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 79,
+            "Scale9Height": 95,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 202.1372,
+              "Y": 91.04
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1579,
+              "Y": 0.1264
+            },
+            "PreSize": {
+              "X": 0.0852,
+              "Y": 0.1625
+            },
+            "LeftMargin": 147.6372,
+            "RightMargin": 1023.3628,
+            "TopMargin": 570.46,
+            "BottomMargin": 32.54,
+            "Tag": 23,
+            "ActionTag": -62671603,
+            "Size": {
+              "X": 109.0,
+              "Y": 117.0
+            },
+            "Name": "JFBtnRank",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_TINTUC.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 70,
+            "Scale9Height": 89,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 357.6828,
+              "Y": 91.04
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2794,
+              "Y": 0.1264
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.1542
+            },
+            "LeftMargin": 307.6828,
+            "RightMargin": 872.3172,
+            "TopMargin": 573.46,
+            "BottomMargin": 35.54,
+            "Tag": 24,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_NOTIFYCATENEW.png",
+                  "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+                },
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 6,
+                "Scale9Width": 8,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 93.0,
+                  "Y": 92.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.93,
+                  "Y": 0.8288
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.1802
+                },
+                "LeftMargin": 83.0,
+                "RightMargin": -3.0,
+                "TopMargin": 9.0,
+                "BottomMargin": 82.0,
+                "Tag": 49,
+                "ActionTag": -838111576,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 20.0
+                },
+                "VisibleForFrame": false,
+                "Name": "IconNotifyNew",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1426747346,
+            "Size": {
+              "X": 100.0,
+              "Y": 111.0
+            },
+            "Name": "JFBtnNews",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_CHEST_HOVER.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_CHEST_NORMAL.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 95,
+            "Scale9Height": 103,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 52.4925,
+              "Y": 488.1633
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.041,
+              "Y": 0.678
+            },
+            "PreSize": {
+              "X": 0.0977,
+              "Y": 0.1736
+            },
+            "LeftMargin": -10.0075,
+            "RightMargin": 1165.0074,
+            "TopMargin": 169.3367,
+            "BottomMargin": 425.6633,
+            "Tag": 25,
+            "ActionTag": 624036513,
+            "Size": {
+              "X": 125.0,
+              "Y": 125.0
+            },
+            "Name": "JFBtnChest",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 24,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_USERONLINE_NORMAL.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 71,
+            "Scale9Height": 90,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1069.3656,
+              "Y": 92.79
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8354,
+              "Y": 0.1289
+            },
+            "PreSize": {
+              "X": 0.0789,
+              "Y": 0.1556
+            },
+            "LeftMargin": 1018.8656,
+            "RightMargin": 160.1344,
+            "TopMargin": 571.21,
+            "BottomMargin": 36.79,
+            "Tag": 26,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 23,
+                "LabelText": "0 Người",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Fonts/MyriadPro-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 49.85,
+                  "Y": 36.1884
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4936,
+                  "Y": 0.3231
+                },
+                "PreSize": {
+                  "X": 0.9901,
+                  "Y": 0.2946
+                },
+                "LeftMargin": -0.15,
+                "RightMargin": 1.15,
+                "TopMargin": 59.3116,
+                "BottomMargin": 19.6884,
+                "Tag": 67,
+                "ActionTag": -988988392,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 33.0
+                },
+                "Name": "TxtTotalUsersOnline",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1457999676,
+            "Size": {
+              "X": 101.0,
+              "Y": 112.0
+            },
+            "Name": "JFBtnUsersOnline",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_FANPAGE_NORMAL.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 71,
+            "Scale9Height": 90,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1208.5699,
+              "Y": 92.79
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9442,
+              "Y": 0.1289
+            },
+            "PreSize": {
+              "X": 0.0789,
+              "Y": 0.1556
+            },
+            "LeftMargin": 1158.0699,
+            "RightMargin": 20.9301,
+            "TopMargin": 571.21,
+            "BottomMargin": 36.79,
+            "Tag": 27,
+            "ActionTag": 1408351227,
+            "Size": {
+              "X": 101.0,
+              "Y": 112.0
+            },
+            "Name": "JFBtnFanpage",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btnTaiApp.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 71,
+            "Scale9Height": 90,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1208.5699,
+              "Y": 338.838
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9442,
+              "Y": 0.4706
+            },
+            "PreSize": {
+              "X": 0.0789,
+              "Y": 0.1556
+            },
+            "LeftMargin": 1158.0699,
+            "RightMargin": 20.9301,
+            "TopMargin": 325.162,
+            "BottomMargin": 282.838,
+            "Tag": 39,
+            "ActionTag": -2088130512,
+            "Size": {
+              "X": 101.0,
+              "Y": 112.0
+            },
+            "Name": "JFBtnTaiApp",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btnBanBe.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 71,
+            "Scale9Height": 99,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1208.5686,
+              "Y": 214.7522
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9442,
+              "Y": 0.2983
+            },
+            "PreSize": {
+              "X": 0.0789,
+              "Y": 0.1681
+            },
+            "LeftMargin": 1158.0686,
+            "RightMargin": 20.9314,
+            "TopMargin": 444.7478,
+            "BottomMargin": 154.2522,
+            "Tag": 38,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_NOTIFYCATENEW.png",
+                  "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+                },
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 6,
+                "Scale9Width": 8,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.5475,
+                  "Y": 104.4232
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9163,
+                  "Y": 0.863
+                },
+                "PreSize": {
+                  "X": 0.198,
+                  "Y": 0.1653
+                },
+                "LeftMargin": 82.5475,
+                "RightMargin": -1.5475,
+                "TopMargin": 6.5768,
+                "BottomMargin": 94.4232,
+                "Tag": 44,
+                "ActionTag": -409616095,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 20.0
+                },
+                "VisibleForFrame": false,
+                "Name": "IconNotifyBanBe",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1983624146,
+            "Size": {
+              "X": 101.0,
+              "Y": 121.0
+            },
+            "Name": "JFBtnBanBe",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_DOITHUOHNG_NORMAL.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 68,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 983.9775,
+              "Y": 654.993
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7687,
+              "Y": 0.9097
+            },
+            "PreSize": {
+              "X": 0.107,
+              "Y": 0.125
+            },
+            "LeftMargin": 915.4775,
+            "RightMargin": 227.5225,
+            "TopMargin": 20.007,
+            "BottomMargin": 609.993,
+            "Tag": 31,
+            "ActionTag": -556776752,
+            "Size": {
+              "X": 137.0,
+              "Y": 90.0
+            },
+            "Name": "JFBtnHelpBtnDoiThuong",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_CUAHANG.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 71,
+            "Scale9Height": 80,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1114.267,
+              "Y": 653.9924
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8705,
+              "Y": 0.9083
+            },
+            "PreSize": {
+              "X": 0.0789,
+              "Y": 0.1417
+            },
+            "LeftMargin": 1063.767,
+            "RightMargin": 115.233,
+            "TopMargin": 15.0076,
+            "BottomMargin": 602.9924,
+            "Tag": 32,
+            "ActionTag": -669545977,
+            "Size": {
+              "X": 101.0,
+              "Y": 102.0
+            },
+            "Name": "JFBtnBtnNapGold",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_THOAT.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 44,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1226.064,
+              "Y": 651.9968
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9579,
+              "Y": 0.9056
+            },
+            "PreSize": {
+              "X": 0.0578,
+              "Y": 0.1056
+            },
+            "LeftMargin": 1189.064,
+            "RightMargin": 16.936,
+            "TopMargin": 30.0032,
+            "BottomMargin": 613.9968,
+            "Tag": 33,
+            "ActionTag": -254830308,
+            "Size": {
+              "X": 74.0,
+              "Y": 76.0
+            },
+            "Name": "JFBtnExit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 90.6164,
+              "Y": 641.2053
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0708,
+              "Y": 0.8906
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 90.6164,
+            "RightMargin": 1189.3835,
+            "TopMargin": 78.7947,
+            "BottomMargin": 641.2053,
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_BG_USERGOLD.png",
+                  "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+                },
+                "Scale9OriginX": 75,
+                "Scale9OriginY": 15,
+                "Scale9Width": 80,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 215.8487,
+                  "Y": 9.1294
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 100.8487,
+                "RightMargin": -330.8487,
+                "TopMargin": -32.1294,
+                "BottomMargin": -13.8706,
+                "Tag": 45,
+                "ActionTag": 2043510661,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 46.0
+                },
+                "Name": "UserInfoTxTGoldBG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "999.999.999\n\n",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 238.7489,
+                  "Y": 13.8512
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 138.7489,
+                "RightMargin": -338.7489,
+                "TopMargin": -30.3512,
+                "BottomMargin": -2.6488,
+                "Tag": 46,
+                "ActionTag": -447817405,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 33.0
+                },
+                "Name": "UserInfoTxTGold",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_AVATAR_CONTAIER.png",
+                  "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 92,
+                "Scale9Height": 107,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -61.0,
+                "RightMargin": -61.0,
+                "TopMargin": -64.5,
+                "BottomMargin": -64.5,
+                "Tag": 35,
+                "ActionTag": 1032403148,
+                "Size": {
+                  "X": 122.0,
+                  "Y": 129.0
+                },
+                "Name": "UserInfoBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "IMG_BTN_NAPXU_NORMAL.png",
+                  "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 31,
+                "Scale9Height": 39,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 130.8487,
+                  "Y": 13.9988
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 100.3487,
+                "RightMargin": -161.3487,
+                "TopMargin": -44.4988,
+                "BottomMargin": -16.5012,
+                "Tag": 37,
+                "ActionTag": 1063815976,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 61.0
+                },
+                "Name": "UserInfoBtnNapGold",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "00\n",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 54.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -25.0,
+                "RightMargin": -25.0,
+                "TopMargin": -65.0,
+                "BottomMargin": 43.0,
+                "Tag": 41,
+                "ActionTag": 1421265130,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 22.0
+                },
+                "Name": "UserInfoTxTLv",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -651222908,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFUserInfo",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 24,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "IMG_BTN_MISSION.png",
+              "Plist": "MenuGame/Buttons/AtlasButtonMenuGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 73,
+            "Scale9Height": 95,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 930.1664,
+              "Y": 91.0872
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7267,
+              "Y": 0.1265
+            },
+            "PreSize": {
+              "X": 0.0805,
+              "Y": 0.1625
+            },
+            "LeftMargin": 878.6664,
+            "RightMargin": 298.3336,
+            "TopMargin": 570.4128,
+            "BottomMargin": 32.5872,
+            "Tag": 62,
+            "ActionTag": 1551833118,
+            "Size": {
+              "X": 103.0,
+              "Y": 117.0
+            },
+            "Name": "JFBtnMission",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "MenuGame/Buttons/IMG_PHANTHUONG.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.0975,
+              "Y": 24.6867
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.0343
+            },
+            "PreSize": {
+              "X": 0.1375,
+              "Y": 0.0625
+            },
+            "LeftMargin": 554.0975,
+            "RightMargin": 549.9025,
+            "TopMargin": 672.8132,
+            "BottomMargin": 2.1867,
+            "Tag": 43,
+            "ActionTag": 789702621,
+            "Size": {
+              "X": 176.0,
+              "Y": 45.0
+            },
+            "Name": "IMG_TEXT_PHANTHUONG_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "MenuGame/Buttons/3d.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 82,
+            "Scale9Height": 80,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1208.5699,
+              "Y": 452.0813
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9442,
+              "Y": 0.6279
+            },
+            "PreSize": {
+              "X": 0.0875,
+              "Y": 0.1417
+            },
+            "LeftMargin": 1152.5699,
+            "RightMargin": 15.4301,
+            "TopMargin": 216.9187,
+            "BottomMargin": 401.0813,
+            "Tag": 45,
+            "ActionTag": -1285794026,
+            "Size": {
+              "X": 112.0,
+              "Y": 102.0
+            },
+            "Name": "JFBtnChangeVersion",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "LayerRooms",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/MyriadPro-Bold.ttf",
+        "MenuGame/Buttons/3d.png",
+        "MenuGame/Buttons/AtlasButtonMenuGame.plist",
+        "MenuGame/Buttons/AtlasButtonMenuGame.png",
+        "MenuGame/Buttons/IMG_BG_FOOTER.png",
+        "MenuGame/Buttons/IMG_BG_FOOTER_HOVER.png",
+        "MenuGame/Buttons/IMG_PHANTHUONG.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

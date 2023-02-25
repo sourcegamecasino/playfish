@@ -1,0 +1,1076 @@
+{
+  "ID": "eeaa5a7d-e98f-4e3a-8d44-1ef433572c0a",
+  "Version": "3.10.0.0",
+  "Name": "UISettingPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 104,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundPopupBig.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 559,
+            "Scale9Height": 279,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.1719,
+              "Y": 331.24
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4994,
+              "Y": 0.4601
+            },
+            "PreSize": {
+              "X": 0.5875,
+              "Y": 0.4306
+            },
+            "LeftMargin": 263.1719,
+            "RightMargin": 264.8281,
+            "TopMargin": 233.76,
+            "BottomMargin": 176.24,
+            "Tag": 106,
+            "ActionTag": 1414599756,
+            "Size": {
+              "X": 752.0,
+              "Y": 310.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1015.1257,
+              "Y": 500.7075
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7931,
+              "Y": 0.6954
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 978.6257,
+            "RightMargin": 228.3743,
+            "TopMargin": 182.7925,
+            "BottomMargin": 464.2075,
+            "Tag": 107,
+            "ActionTag": -368841379,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Signboard.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 130,
+            "Scale9OriginY": 37,
+            "Scale9Width": 134,
+            "Scale9Height": 40,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 644.6501,
+              "Y": 474.611
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5036,
+              "Y": 0.6592
+            },
+            "PreSize": {
+              "X": 0.3078,
+              "Y": 0.1583
+            },
+            "LeftMargin": 447.6501,
+            "RightMargin": 438.3499,
+            "TopMargin": 188.389,
+            "BottomMargin": 417.611,
+            "Tag": 46,
+            "ActionTag": 1571411179,
+            "Size": {
+              "X": 394.0,
+              "Y": 114.0
+            },
+            "Name": "JFTitleBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "grass1.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 379.3335,
+              "Y": 488.21
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2964,
+              "Y": 0.6781
+            },
+            "PreSize": {
+              "X": 0.0406,
+              "Y": 0.0417
+            },
+            "LeftMargin": 353.3335,
+            "RightMargin": 874.6665,
+            "TopMargin": 216.79,
+            "BottomMargin": 473.21,
+            "Tag": 68,
+            "ActionTag": 749654900,
+            "Size": {
+              "X": 52.0,
+              "Y": 30.0
+            },
+            "Name": "grass",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleSetting.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 48,
+            "Scale9OriginY": 16,
+            "Scale9Width": 51,
+            "Scale9Height": 19,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.4517,
+              "Y": 475.9839
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5004,
+              "Y": 0.6611
+            },
+            "PreSize": {
+              "X": 0.1148,
+              "Y": 0.0708
+            },
+            "LeftMargin": 566.9517,
+            "RightMargin": 566.0483,
+            "TopMargin": 218.5161,
+            "BottomMargin": 450.4839,
+            "Tag": 108,
+            "ActionTag": -786540866,
+            "Size": {
+              "X": 147.0,
+              "Y": 51.0
+            },
+            "Name": "JFTitle",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "Âm thanh",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 398.0543,
+              "Y": 358.6102
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.311,
+              "Y": 0.4981
+            },
+            "PreSize": {
+              "X": 0.1047,
+              "Y": 0.05
+            },
+            "LeftMargin": 398.0543,
+            "RightMargin": 747.9457,
+            "TopMargin": 325.3898,
+            "BottomMargin": 358.6102,
+            "Tag": 109,
+            "ActionTag": -1663326179,
+            "Size": {
+              "X": 134.0,
+              "Y": 36.0
+            },
+            "Name": "JFLblSound",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "Nhạc nền",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 398.0543,
+              "Y": 286.6099
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.311,
+              "Y": 0.3981
+            },
+            "PreSize": {
+              "X": 0.1,
+              "Y": 0.05
+            },
+            "LeftMargin": 398.0543,
+            "RightMargin": 753.9457,
+            "TopMargin": 397.3901,
+            "BottomMargin": 286.6099,
+            "Tag": 110,
+            "ActionTag": -238219176,
+            "Size": {
+              "X": 128.0,
+              "Y": 36.0
+            },
+            "Name": "JFLblMusic",
+            "ctype": "TextObjectData"
+          },
+          {
+            "BackGroundData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundSlider.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "ProgressBarData": {
+              "Type": "PlistSubImage",
+              "Path": "FrontGroundSlider.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BallNormalData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnSound.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "PercentInfo": 51,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 740.2418,
+              "Y": 376.6102
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5783,
+              "Y": 0.5231
+            },
+            "PreSize": {
+              "X": 0.2445,
+              "Y": 0.05
+            },
+            "LeftMargin": 583.7418,
+            "RightMargin": 383.2582,
+            "TopMargin": 325.3898,
+            "BottomMargin": 358.6102,
+            "Tag": 113,
+            "ActionTag": -2009286930,
+            "Size": {
+              "X": 313.0,
+              "Y": 36.0
+            },
+            "Name": "JFSlider_Sound",
+            "ctype": "SliderObjectData"
+          },
+          {
+            "BackGroundData": {
+              "Type": "PlistSubImage",
+              "Path": "BackGroundSlider.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "ProgressBarData": {
+              "Type": "PlistSubImage",
+              "Path": "FrontGroundSlider.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BallNormalData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnMusic.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "PercentInfo": 64,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 740.0092,
+              "Y": 304.6099
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5781,
+              "Y": 0.4231
+            },
+            "PreSize": {
+              "X": 0.2445,
+              "Y": 0.05
+            },
+            "LeftMargin": 583.5092,
+            "RightMargin": 383.4908,
+            "TopMargin": 397.3901,
+            "BottomMargin": 286.6099,
+            "Tag": 114,
+            "ActionTag": -598480160,
+            "Size": {
+              "X": 313.0,
+              "Y": 36.0
+            },
+            "Name": "JFSlider_Music",
+            "ctype": "SliderObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Bubble1.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 9,
+            "Scale9Width": 11,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1034.03,
+              "Y": 435.7001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8078,
+              "Y": 0.6051
+            },
+            "PreSize": {
+              "X": 0.0227,
+              "Y": 0.0347
+            },
+            "LeftMargin": 1019.53,
+            "RightMargin": 231.47,
+            "TopMargin": 271.7999,
+            "BottomMargin": 423.2001,
+            "Tag": 10,
+            "ActionTag": 1738197188,
+            "Size": {
+              "X": 29.0,
+              "Y": 25.0
+            },
+            "Name": "bubble1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Bubble2.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 13,
+            "Scale9OriginY": 12,
+            "Scale9Width": 14,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5269,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 179.4696,
+              "Y": 308.0216
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1402,
+              "Y": 0.4278
+            },
+            "PreSize": {
+              "X": 0.0313,
+              "Y": 0.0542
+            },
+            "LeftMargin": 158.3936,
+            "RightMargin": 1081.6064,
+            "TopMargin": 392.4784,
+            "BottomMargin": 288.5216,
+            "Tag": 11,
+            "ActionTag": -1644118653,
+            "Size": {
+              "X": 40.0,
+              "Y": 39.0
+            },
+            "Name": "bubble2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Bubble1.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 9,
+            "Scale9Width": 11,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.446,
+              "ScaleY": 0.5725
+            },
+            "Position": {
+              "X": 1054.8297,
+              "Y": 415.7745
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.7037
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8241,
+              "Y": 0.5775
+            },
+            "PreSize": {
+              "X": 0.0227,
+              "Y": 0.0361
+            },
+            "LeftMargin": 1041.8958,
+            "RightMargin": 209.1042,
+            "TopMargin": 293.1105,
+            "BottomMargin": 400.8895,
+            "Tag": 12,
+            "ActionTag": 1281193827,
+            "Size": {
+              "X": 29.0,
+              "Y": 26.0
+            },
+            "Name": "bubble3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Bubble2.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 13,
+            "Scale9OriginY": 12,
+            "Scale9Width": 14,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1038.2008,
+              "Y": 172.4037
+            },
+            "Scale": {
+              "ScaleX": 0.8693,
+              "ScaleY": 0.8086
+            },
+            "RotationSkewX": 100.0006,
+            "RotationSkewY": 99.995,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8111,
+              "Y": 0.2394
+            },
+            "PreSize": {
+              "X": 0.0313,
+              "Y": 0.0542
+            },
+            "LeftMargin": 1018.2008,
+            "RightMargin": 221.7992,
+            "TopMargin": 528.0963,
+            "BottomMargin": 152.9037,
+            "Tag": 13,
+            "ActionTag": -132837578,
+            "Size": {
+              "X": 40.0,
+              "Y": 39.0
+            },
+            "Name": "bubble4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Bubble1.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 9,
+            "Scale9Width": 11,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 865.8829,
+              "Y": 533.6031
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6765,
+              "Y": 0.7411
+            },
+            "PreSize": {
+              "X": 0.0242,
+              "Y": 0.0375
+            },
+            "LeftMargin": 850.3829,
+            "RightMargin": 398.6171,
+            "TopMargin": 172.8969,
+            "BottomMargin": 520.1031,
+            "Tag": 14,
+            "ActionTag": -808203432,
+            "Size": {
+              "X": 31.0,
+              "Y": 27.0
+            },
+            "Name": "bubble5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Bubble1.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 9,
+            "Scale9Width": 11,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 898.4402,
+              "Y": 541.8641
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7019,
+              "Y": 0.7526
+            },
+            "PreSize": {
+              "X": 0.0203,
+              "Y": 0.0306
+            },
+            "LeftMargin": 885.4402,
+            "RightMargin": 368.5598,
+            "TopMargin": 167.1359,
+            "BottomMargin": 530.8641,
+            "Tag": 15,
+            "ActionTag": 307487089,
+            "Size": {
+              "X": 26.0,
+              "Y": 22.0
+            },
+            "Name": "bubble6",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Bubble2.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 13,
+            "Scale9OriginY": 12,
+            "Scale9Width": 14,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5269,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 330.9325,
+              "Y": 541.2706
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2585,
+              "Y": 0.7518
+            },
+            "PreSize": {
+              "X": 0.018,
+              "Y": 0.0375
+            },
+            "LeftMargin": 318.8138,
+            "RightMargin": 938.1862,
+            "TopMargin": 165.2294,
+            "BottomMargin": 527.7706,
+            "Tag": 16,
+            "ActionTag": -1762736629,
+            "Size": {
+              "X": 23.0,
+              "Y": 27.0
+            },
+            "Name": "bubble7",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Bubble1.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 9,
+            "Scale9Width": 11,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 203.3491,
+              "Y": 197.3308
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1589,
+              "Y": 0.2741
+            },
+            "PreSize": {
+              "X": 0.0242,
+              "Y": 0.0375
+            },
+            "LeftMargin": 187.8491,
+            "RightMargin": 1061.1509,
+            "TopMargin": 509.1692,
+            "BottomMargin": 183.8308,
+            "Tag": 17,
+            "ActionTag": -1622115628,
+            "Size": {
+              "X": 31.0,
+              "Y": 27.0
+            },
+            "Name": "bubble8",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Bubble1.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 9,
+            "Scale9Width": 11,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 191.3486,
+              "Y": 164.4835
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1495,
+              "Y": 0.2284
+            },
+            "PreSize": {
+              "X": 0.018,
+              "Y": 0.0278
+            },
+            "LeftMargin": 179.8486,
+            "RightMargin": 1077.1514,
+            "TopMargin": 545.5165,
+            "BottomMargin": 154.4835,
+            "Tag": 18,
+            "ActionTag": -577738920,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "bubble9",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BackgroundButtonCancel.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 33,
+            "Scale9OriginY": 31,
+            "Scale9Width": 34,
+            "Scale9Height": 33,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 974.9503,
+              "Y": 497.7769
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7617,
+              "Y": 0.6914
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.1319
+            },
+            "LeftMargin": 924.9503,
+            "RightMargin": 255.0497,
+            "TopMargin": 174.7231,
+            "BottomMargin": 450.2769,
+            "Tag": 47,
+            "ActionTag": 175783773,
+            "Size": {
+              "X": 100.0,
+              "Y": 95.0
+            },
+            "Name": "JFButtonBackGround",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "Đổi phiên bản",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 398.0543,
+              "Y": 214.61
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.311,
+              "Y": 0.2981
+            },
+            "PreSize": {
+              "X": 0.1477,
+              "Y": 0.05
+            },
+            "LeftMargin": 398.0543,
+            "RightMargin": 692.9457,
+            "TopMargin": 469.39,
+            "BottomMargin": 214.61,
+            "Tag": 166,
+            "ActionTag": -1003479632,
+            "Size": {
+              "X": 189.0,
+              "Y": 36.0
+            },
+            "Name": "JFLblChangeVersion",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Popups/PopupGame/IMG_3D.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 39,
+            "Scale9Height": 30,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 705.4192,
+              "Y": 239.3638
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5511,
+              "Y": 0.3324
+            },
+            "PreSize": {
+              "X": 0.0539,
+              "Y": 0.0722
+            },
+            "LeftMargin": 670.9192,
+            "RightMargin": 540.0808,
+            "TopMargin": 454.6362,
+            "BottomMargin": 213.3638,
+            "Tag": 516,
+            "ActionTag": -2051263711,
+            "Size": {
+              "X": 69.0,
+              "Y": 52.0
+            },
+            "Name": "BtnTo3D",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/MyriadPro-Bold.ttf",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png",
+        "Popups/PopupGame/IMG_3D.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

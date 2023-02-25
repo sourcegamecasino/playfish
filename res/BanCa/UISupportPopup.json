@@ -1,0 +1,470 @@
+{
+  "ID": "6b506f87-8937-4d74-bc2e-69f5351f6405",
+  "Version": "3.10.0.0",
+  "Name": "UISupportPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 400,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Fish.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 482.2088,
+              "Y": 577.5797
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3767,
+              "Y": 0.8022
+            },
+            "PreSize": {
+              "X": 0.0859,
+              "Y": 0.1625
+            },
+            "LeftMargin": 427.2088,
+            "RightMargin": 742.7912,
+            "TopMargin": 83.9203,
+            "BottomMargin": 519.0797,
+            "Tag": 594,
+            "ActionTag": 1929483232,
+            "Size": {
+              "X": 110.0,
+              "Y": 117.0
+            },
+            "Name": "JFFish",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "JFBackgroundSmallNormal.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 481,
+            "ActionTag": -1778382716,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFBackground",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TitleSupport.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 637.4326,
+              "Y": 510.2897
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.498,
+              "Y": 0.7087
+            },
+            "PreSize": {
+              "X": 0.1117,
+              "Y": 0.0778
+            },
+            "LeftMargin": 565.9326,
+            "RightMargin": 571.0674,
+            "TopMargin": 181.7103,
+            "BottomMargin": 482.2897,
+            "Tag": 593,
+            "ActionTag": 700396176,
+            "Size": {
+              "X": 143.0,
+              "Y": 56.0
+            },
+            "Name": "JFTitleSupport",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "VayCa.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 524.4192,
+              "Y": 555.1157
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4097,
+              "Y": 0.771
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0653
+            },
+            "LeftMargin": 502.4192,
+            "RightMargin": 733.5808,
+            "TopMargin": 141.3843,
+            "BottomMargin": 531.6157,
+            "Tag": 595,
+            "ActionTag": -1871357355,
+            "Size": {
+              "X": 44.0,
+              "Y": 47.0
+            },
+            "Name": "JFVayCa",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DienThoai.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 454.819,
+              "Y": 556.6797
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3553,
+              "Y": 0.7732
+            },
+            "PreSize": {
+              "X": 0.0844,
+              "Y": 0.1556
+            },
+            "LeftMargin": 400.819,
+            "RightMargin": 771.181,
+            "TopMargin": 107.3203,
+            "BottomMargin": 500.6797,
+            "Tag": 596,
+            "ActionTag": -1943843109,
+            "Size": {
+              "X": 108.0,
+              "Y": 112.0
+            },
+            "Name": "JFPhone",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "SĐT :",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 426.0,
+              "Y": 397.4555
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3328,
+              "Y": 0.552
+            },
+            "PreSize": {
+              "X": 0.225,
+              "Y": 0.0486
+            },
+            "LeftMargin": 426.0,
+            "RightMargin": 566.0,
+            "TopMargin": 305.0445,
+            "BottomMargin": 379.9555,
+            "Tag": 597,
+            "ActionTag": 1275379773,
+            "Size": {
+              "X": 288.0,
+              "Y": 35.0
+            },
+            "Name": "JFPhoneNumber",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Viber:",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 426.0,
+              "Y": 346.247
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3328,
+              "Y": 0.4809
+            },
+            "PreSize": {
+              "X": 0.225,
+              "Y": 0.0486
+            },
+            "LeftMargin": 426.0,
+            "RightMargin": 566.0,
+            "TopMargin": 356.253,
+            "BottomMargin": 328.747,
+            "Tag": 646,
+            "ActionTag": -141450382,
+            "Size": {
+              "X": 288.0,
+              "Y": 35.0
+            },
+            "Name": "JFViber",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/MyriadPro-Bold.ttf",
+              "Plist": ""
+            },
+            "FontSize": 30,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Email:",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 426.0,
+              "Y": 290.7296
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 90,
+              "G": 67,
+              "B": 34
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3328,
+              "Y": 0.4038
+            },
+            "PreSize": {
+              "X": 0.225,
+              "Y": 0.0486
+            },
+            "LeftMargin": 426.0,
+            "RightMargin": 566.0,
+            "TopMargin": 411.7704,
+            "BottomMargin": 273.2296,
+            "Tag": 647,
+            "ActionTag": -115098796,
+            "Size": {
+              "X": 288.0,
+              "Y": 35.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFEmail",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 938.4624,
+              "Y": 515.5017
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 0.8673,
+            "RotationSkewY": 0.8708,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7332,
+              "Y": 0.716
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1014
+            },
+            "LeftMargin": 901.9624,
+            "RightMargin": 305.0376,
+            "TopMargin": 167.9983,
+            "BottomMargin": 479.0017,
+            "Tag": 928,
+            "ActionTag": -14331516,
+            "Size": {
+              "X": 73.0,
+              "Y": 73.0
+            },
+            "Name": "JFButton_Close",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Fonts/MyriadPro-Bold.ttf",
+        "JFBackgroundSmallNormal.json",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

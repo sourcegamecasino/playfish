@@ -1,0 +1,3075 @@
+{
+  "ID": "9e5d5c1f-205f-4316-9197-bc4691b67763",
+  "Version": "3.10.0.0",
+  "Name": "UIMiniTaiXiuLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 36,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 46,
+            "ActionTag": 535833082,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "JFBlackBackground",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 58,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "TaiXiuBackground.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 77,
+                "Scale9Width": 68,
+                "Scale9Height": 420,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 288.5,
+                "RightMargin": -991.5,
+                "TopMargin": -570.0,
+                "BottomMargin": 150.0,
+                "Tag": 56,
+                "ActionTag": -332437705,
+                "Size": {
+                  "X": 703.0,
+                  "Y": 420.0
+                },
+                "Name": "JFBackground",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "KhungDuoi.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9OriginX": 129,
+                "Scale9OriginY": 6,
+                "Scale9Width": 134,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 143.7964
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 435.0,
+                "RightMargin": -845.0,
+                "TopMargin": -153.2964,
+                "BottomMargin": 134.2964,
+                "Tag": 57,
+                "ActionTag": 225598785,
+                "Size": {
+                  "X": 410.0,
+                  "Y": 19.0
+                },
+                "Name": "Image_10",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "KhungTrai.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9OriginX": 49,
+                "Scale9OriginY": 164,
+                "Scale9Width": 52,
+                "Scale9Height": 170,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 916.379,
+                  "Y": 380.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 841.379,
+                "RightMargin": -991.379,
+                "TopMargin": -629.0,
+                "BottomMargin": 131.0,
+                "Tag": 59,
+                "ActionTag": 1416076606,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 498.0
+                },
+                "Name": "Image_11",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "KhungTrai.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9OriginX": 49,
+                "Scale9OriginY": 164,
+                "Scale9Width": 52,
+                "Scale9Height": 170,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 363.4205,
+                  "Y": 380.0
+                },
+                "Scale": {
+                  "ScaleX": -1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 288.4205,
+                "RightMargin": -438.4205,
+                "TopMargin": -629.0,
+                "BottomMargin": 131.0,
+                "Tag": 60,
+                "ActionTag": -749529041,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 498.0
+                },
+                "Name": "Image_11_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "coin.png",
+                  "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 13,
+                "Scale9Width": 42,
+                "Scale9Height": 44,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 356.2369,
+                  "Y": 513.7467
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 336.7369,
+                "RightMargin": -375.7369,
+                "TopMargin": -534.2467,
+                "BottomMargin": 493.2467,
+                "Tag": 345,
+                "ActionTag": -1924735783,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 41.0
+                },
+                "Name": "Image_7",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "TitleTaiXiu.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9OriginX": 154,
+                "Scale9OriginY": 50,
+                "Scale9Width": 161,
+                "Scale9Height": 52,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 632.1389,
+                  "Y": 595.9802
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 397.6389,
+                "RightMargin": -866.6389,
+                "TopMargin": -671.9802,
+                "BottomMargin": 519.9802,
+                "Tag": 61,
+                "ActionTag": -1444800512,
+                "Size": {
+                  "X": 469.0,
+                  "Y": 152.0
+                },
+                "Name": "Image_13",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "TXResultContent.png",
+                  "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+                },
+                "Scale9OriginX": 214,
+                "Scale9OriginY": 27,
+                "Scale9Width": 223,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 212.6944
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 314.5,
+                "RightMargin": -965.5,
+                "TopMargin": -253.6944,
+                "BottomMargin": 171.6944,
+                "Tag": 62,
+                "ActionTag": -770783020,
+                "Size": {
+                  "X": 651.0,
+                  "Y": 82.0
+                },
+                "Name": "Image_14",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 313766836,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "BG",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "CircleWhite.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 81,
+            "Scale9OriginY": 81,
+            "Scale9Width": 79,
+            "Scale9Height": 79,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 384.9044
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5346
+            },
+            "PreSize": {
+              "X": 0.193,
+              "Y": 0.3431
+            },
+            "LeftMargin": 516.5,
+            "RightMargin": 516.5,
+            "TopMargin": 211.5956,
+            "BottomMargin": 261.4044,
+            "Tag": 63,
+            "ActionTag": 1310227893,
+            "Size": {
+              "X": 247.0,
+              "Y": 247.0
+            },
+            "Name": "JFPlate",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "CirclePurple.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 26,
+            "Scale9OriginY": 26,
+            "Scale9Width": 27,
+            "Scale9Height": 27,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 733.12,
+              "Y": 482.5747
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5727,
+              "Y": 0.6702
+            },
+            "PreSize": {
+              "X": 0.0617,
+              "Y": 0.1097
+            },
+            "LeftMargin": 693.62,
+            "RightMargin": 507.38,
+            "TopMargin": 197.9253,
+            "BottomMargin": 443.0747,
+            "Tag": 65,
+            "ActionTag": -994047647,
+            "Size": {
+              "X": 79.0,
+              "Y": 79.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFBackgroundTime",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 48,
+            "LabelText": "30",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 732.5928,
+              "Y": 481.1935
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5723,
+              "Y": 0.6683
+            },
+            "PreSize": {
+              "X": 0.0469,
+              "Y": 0.0764
+            },
+            "LeftMargin": 702.5928,
+            "RightMargin": 517.4072,
+            "TopMargin": 211.3065,
+            "BottomMargin": 453.6935,
+            "Tag": 66,
+            "ActionTag": -1434010037,
+            "Size": {
+              "X": 60.0,
+              "Y": 55.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFTxtSumDice",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "60:60",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 731.8062,
+              "Y": 481.92
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5717,
+              "Y": 0.6693
+            },
+            "PreSize": {
+              "X": 0.0469,
+              "Y": 0.0319
+            },
+            "LeftMargin": 701.8062,
+            "RightMargin": 518.1938,
+            "TopMargin": 226.58,
+            "BottomMargin": 470.42,
+            "Tag": 356,
+            "ActionTag": -844353357,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFTxtTimeNewMatch",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 83,
+            "LabelText": "00:08",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arial.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 380.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 221,
+              "G": 4,
+              "B": 253
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5278
+            },
+            "PreSize": {
+              "X": 0.1641,
+              "Y": 0.1319
+            },
+            "LeftMargin": 535.0,
+            "RightMargin": 535.0,
+            "TopMargin": 292.5,
+            "BottomMargin": 332.5,
+            "Tag": 67,
+            "ActionTag": -1914655815,
+            "Size": {
+              "X": 210.0,
+              "Y": 95.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFTxtTimeOpen",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TextTai.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 37,
+            "Scale9OriginY": 27,
+            "Scale9Width": 39,
+            "Scale9Height": 29,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 436.7086,
+              "Y": 440.0002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3412,
+              "Y": 0.6111
+            },
+            "PreSize": {
+              "X": 0.0883,
+              "Y": 0.1153
+            },
+            "LeftMargin": 380.2086,
+            "RightMargin": 786.7914,
+            "TopMargin": 238.4998,
+            "BottomMargin": 398.5002,
+            "Tag": 68,
+            "ActionTag": 541369889,
+            "Size": {
+              "X": 113.0,
+              "Y": 83.0
+            },
+            "Name": "JFLblTai",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TextXiu.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 38,
+            "Scale9OriginY": 27,
+            "Scale9Width": 41,
+            "Scale9Height": 29,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 858.4694,
+              "Y": 440.0002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6707,
+              "Y": 0.6111
+            },
+            "PreSize": {
+              "X": 0.0914,
+              "Y": 0.1153
+            },
+            "LeftMargin": 799.9694,
+            "RightMargin": 363.0306,
+            "TopMargin": 238.4998,
+            "BottomMargin": 398.5002,
+            "Tag": 69,
+            "ActionTag": -495920079,
+            "Size": {
+              "X": 117.0,
+              "Y": 83.0
+            },
+            "Name": "JFLblXiu",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 17,
+            "LabelText": "#0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 894.9493,
+              "Y": 515.0127
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6992,
+              "Y": 0.7153
+            },
+            "PreSize": {
+              "X": 0.0664,
+              "Y": 0.0278
+            },
+            "LeftMargin": 852.4493,
+            "RightMargin": 342.5507,
+            "TopMargin": 194.9873,
+            "BottomMargin": 505.0127,
+            "Tag": 70,
+            "ActionTag": 1646136201,
+            "Size": {
+              "X": 85.0,
+              "Y": 20.0
+            },
+            "Name": "JFTxtMatchID",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 17,
+            "LabelText": "0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 379.9431,
+              "Y": 514.6522
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2968,
+              "Y": 0.7148
+            },
+            "PreSize": {
+              "X": 0.1242,
+              "Y": 0.0278
+            },
+            "LeftMargin": 379.9431,
+            "RightMargin": 741.0569,
+            "TopMargin": 195.3478,
+            "BottomMargin": 504.6522,
+            "Tag": 344,
+            "ActionTag": 420028623,
+            "Size": {
+              "X": 159.0,
+              "Y": 20.0
+            },
+            "Name": "JFTxtCoin",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconPlayer.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 6,
+            "Scale9Width": 7,
+            "Scale9Height": 9,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 356.5924,
+              "Y": 442.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2786,
+              "Y": 0.6139
+            },
+            "PreSize": {
+              "X": 0.0117,
+              "Y": 0.0292
+            },
+            "LeftMargin": 349.0924,
+            "RightMargin": 915.9076,
+            "TopMargin": 267.5,
+            "BottomMargin": 431.5,
+            "Tag": 71,
+            "ActionTag": 319820343,
+            "Size": {
+              "X": 15.0,
+              "Y": 21.0
+            },
+            "Name": "iconPlayerT",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "IconPlayer.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 4,
+            "Scale9OriginY": 6,
+            "Scale9Width": 7,
+            "Scale9Height": 9,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 938.9998,
+              "Y": 441.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7336,
+              "Y": 0.6139
+            },
+            "PreSize": {
+              "X": 0.0117,
+              "Y": 0.0292
+            },
+            "LeftMargin": 931.4998,
+            "RightMargin": 333.5002,
+            "TopMargin": 267.5002,
+            "BottomMargin": 431.4998,
+            "Tag": 72,
+            "ActionTag": 1016087650,
+            "Size": {
+              "X": 15.0,
+              "Y": 21.0
+            },
+            "Name": "iconPlayerX",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 14,
+            "LabelText": "(0)",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 357.0392,
+              "Y": 420.5087
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2789,
+              "Y": 0.584
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0222
+            },
+            "LeftMargin": 335.0392,
+            "RightMargin": 900.9608,
+            "TopMargin": 291.4913,
+            "BottomMargin": 412.5087,
+            "Tag": 73,
+            "ActionTag": -1258901412,
+            "Size": {
+              "X": 44.0,
+              "Y": 16.0
+            },
+            "Name": "JFTxtUserTai",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 14,
+            "LabelText": "(0)",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 939.28,
+              "Y": 420.3509
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7338,
+              "Y": 0.5838
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0222
+            },
+            "LeftMargin": 917.28,
+            "RightMargin": 318.72,
+            "TopMargin": 291.6491,
+            "BottomMargin": 412.3509,
+            "Tag": 74,
+            "ActionTag": -1860741171,
+            "Size": {
+              "X": 44.0,
+              "Y": 16.0
+            },
+            "Name": "JFTxtUserXiu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 28,
+            "LabelText": "0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 433.4539,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 136,
+              "G": 254,
+              "B": 4
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3386,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.0444
+            },
+            "LeftMargin": 348.9539,
+            "RightMargin": 762.0461,
+            "TopMargin": 344.0,
+            "BottomMargin": 344.0,
+            "Tag": 75,
+            "ActionTag": -693525157,
+            "Size": {
+              "X": 169.0,
+              "Y": 32.0
+            },
+            "Name": "JFTotalBetTai",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 28,
+            "LabelText": "0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 858.7014,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 136,
+              "G": 254,
+              "B": 4
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6709,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.1289,
+              "Y": 0.0444
+            },
+            "LeftMargin": 776.2014,
+            "RightMargin": 338.7986,
+            "TopMargin": 344.0,
+            "BottomMargin": 344.0,
+            "Tag": 76,
+            "ActionTag": -290720400,
+            "Size": {
+              "X": 165.0,
+              "Y": 32.0
+            },
+            "Name": "JFTotalBetXiu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 28,
+            "ButtonText": "Cược",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 90,
+              "G": 30,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TXBtnBGDis.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TXBtnBG.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 109,
+            "Scale9Height": 25,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 435.7125,
+              "Y": 312.36
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3404,
+              "Y": 0.4338
+            },
+            "PreSize": {
+              "X": 0.1086,
+              "Y": 0.0653
+            },
+            "LeftMargin": 366.2125,
+            "RightMargin": 774.7875,
+            "TopMargin": 384.14,
+            "BottomMargin": 288.86,
+            "Tag": 77,
+            "ActionTag": -905252748,
+            "Size": {
+              "X": 139.0,
+              "Y": 47.0
+            },
+            "Name": "JFButtonBetTai",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 28,
+            "ButtonText": "Cược",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 90,
+              "G": 30,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TXBtnBGDis.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TXBtnBG.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 109,
+            "Scale9Height": 25,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 858.868,
+              "Y": 312.36
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.671,
+              "Y": 0.4338
+            },
+            "PreSize": {
+              "X": 0.1086,
+              "Y": 0.0653
+            },
+            "LeftMargin": 789.368,
+            "RightMargin": 351.632,
+            "TopMargin": 384.14,
+            "BottomMargin": 288.86,
+            "Tag": 78,
+            "ActionTag": 752088772,
+            "Size": {
+              "X": 139.0,
+              "Y": 47.0
+            },
+            "Name": "JFButtonBetXiu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 25,
+            "LabelText": "0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 434.6898,
+              "Y": 262.5934
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 159,
+              "G": 81,
+              "B": 254
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3396,
+              "Y": 0.3647
+            },
+            "PreSize": {
+              "X": 0.1227,
+              "Y": 0.0403
+            },
+            "LeftMargin": 356.1898,
+            "RightMargin": 766.8102,
+            "TopMargin": 442.9066,
+            "BottomMargin": 248.0934,
+            "Tag": 79,
+            "ActionTag": -576832492,
+            "Size": {
+              "X": 157.0,
+              "Y": 29.0
+            },
+            "Name": "JFTxtMyBetTai",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 25,
+            "LabelText": "0",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 857.3726,
+              "Y": 263.46
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 159,
+              "G": 81,
+              "B": 254
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6698,
+              "Y": 0.3659
+            },
+            "PreSize": {
+              "X": 0.1289,
+              "Y": 0.0403
+            },
+            "LeftMargin": 774.8726,
+            "RightMargin": 340.1274,
+            "TopMargin": 442.04,
+            "BottomMargin": 248.96,
+            "Tag": 80,
+            "ActionTag": -1172680534,
+            "Size": {
+              "X": 165.0,
+              "Y": 29.0
+            },
+            "Name": "JFTxtMyBetXiu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1563,
+              "Y": 0.2778
+            },
+            "RightMargin": 1080.0,
+            "TopMargin": 520.0,
+            "Tag": 81,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 368.0721,
+                  "Y": 210.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.8404,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 354.0721,
+                "RightMargin": -182.0721,
+                "TopMargin": -24.0,
+                "BottomMargin": 196.0,
+                "Tag": 82,
+                "ActionTag": -136630517,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 397.2527,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.9863,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 383.2527,
+                "RightMargin": -211.2527,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 83,
+                "ActionTag": -1654105430,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 426.4332,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.1322,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 412.4332,
+                "RightMargin": -240.4332,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 84,
+                "ActionTag": -1092984188,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 455.6137,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.2781,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 441.6137,
+                "RightMargin": -269.6137,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 85,
+                "ActionTag": -1065992579,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 484.7943,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.424,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 470.7943,
+                "RightMargin": -298.7943,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 86,
+                "ActionTag": -838818375,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 513.9749,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.5699,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 499.9749,
+                "RightMargin": -327.9749,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 87,
+                "ActionTag": 856676100,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 543.1554,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.7158,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 529.1554,
+                "RightMargin": -357.1554,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 88,
+                "ActionTag": 1409470772,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI6",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 572.3359,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.8617,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 558.3359,
+                "RightMargin": -386.3359,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 89,
+                "ActionTag": -1209877462,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI7",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 601.5166,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.0076,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 587.5166,
+                "RightMargin": -415.5166,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 90,
+                "ActionTag": -1810873007,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI8",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 630.6973,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.1535,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 616.6973,
+                "RightMargin": -444.6973,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 91,
+                "ActionTag": 1977087639,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI9",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 659.8779,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.2994,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 645.8779,
+                "RightMargin": -473.8779,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 92,
+                "ActionTag": 1022932433,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI10",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 689.0586,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.4453,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 675.0586,
+                "RightMargin": -503.0586,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 93,
+                "ActionTag": 6160248,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI11",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 718.2393,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.5912,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 704.2393,
+                "RightMargin": -532.2393,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 94,
+                "ActionTag": -1493998106,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI12",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 747.4199,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.7371,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 733.4199,
+                "RightMargin": -561.4199,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 95,
+                "ActionTag": 1888928897,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI13",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 776.6006,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.883,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 762.6006,
+                "RightMargin": -590.6006,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 96,
+                "ActionTag": -399084474,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI14",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 805.7813,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 4.0289,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 791.7813,
+                "RightMargin": -619.7813,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 97,
+                "ActionTag": -1407319238,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI15",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 834.9619,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 4.1748,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 820.9619,
+                "RightMargin": -648.9619,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 98,
+                "ActionTag": -1054199537,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI16",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 864.1426,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 4.3207,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 850.1426,
+                "RightMargin": -678.1426,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 99,
+                "ActionTag": -836917285,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI17",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 893.3232,
+                  "Y": 210.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 4.4666,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 879.3232,
+                "RightMargin": -707.3232,
+                "TopMargin": -24.0001,
+                "BottomMargin": 196.0001,
+                "Tag": 100,
+                "ActionTag": 1109649323,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI18",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 922.5039,
+                  "Y": 210.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 4.6125,
+                  "Y": 1.05
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.14
+                },
+                "LeftMargin": 908.5039,
+                "RightMargin": -736.5039,
+                "TopMargin": -24.0,
+                "BottomMargin": 196.0,
+                "Tag": 101,
+                "ActionTag": -1679695406,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "VisibleForFrame": false,
+                "Name": "HI19",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -2096051472,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "JFPanelHistory",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BtnCloseCircle.png",
+              "Plist": "Popups/PopupGame/AtlasPopupGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 43,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 973.6295,
+              "Y": 565.6932
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 0.8673,
+            "RotationSkewY": 0.8708,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7606,
+              "Y": 0.7857
+            },
+            "PreSize": {
+              "X": 0.0484,
+              "Y": 0.0861
+            },
+            "LeftMargin": 942.6295,
+            "RightMargin": 275.3705,
+            "TopMargin": 123.3068,
+            "BottomMargin": 534.6932,
+            "Tag": 9498,
+            "ActionTag": -1910244588,
+            "Size": {
+              "X": 62.0,
+              "Y": 62.0
+            },
+            "Name": "JFButtonClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TXBtnChat.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 32,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 332.3984,
+              "Y": 597.0889
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2597,
+              "Y": 0.8293
+            },
+            "PreSize": {
+              "X": 0.0484,
+              "Y": 0.0861
+            },
+            "LeftMargin": 301.3984,
+            "RightMargin": 916.6016,
+            "TopMargin": 91.9111,
+            "BottomMargin": 566.0889,
+            "Tag": 103,
+            "ActionTag": -1273502796,
+            "Size": {
+              "X": 62.0,
+              "Y": 62.0
+            },
+            "Name": "JFButtonChat",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 288.3981,
+              "Y": 367.2336
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2253,
+              "Y": 0.51
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 288.3981,
+            "RightMargin": 991.6019,
+            "TopMargin": 352.7664,
+            "BottomMargin": 367.2336,
+            "Tag": 105,
+            "ActionTag": 1986392373,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JFLeftNode",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TXBtnXepHang.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 52,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 469.6081,
+              "Y": 144.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3669,
+              "Y": 0.2
+            },
+            "PreSize": {
+              "X": 0.0641,
+              "Y": 0.1139
+            },
+            "LeftMargin": 428.6081,
+            "RightMargin": 769.3919,
+            "TopMargin": 535.0,
+            "BottomMargin": 103.0,
+            "Tag": 106,
+            "ActionTag": 1586033386,
+            "Size": {
+              "X": 82.0,
+              "Y": 82.0
+            },
+            "Name": "JFButtonXepHang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TXBtnThongTin.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 52,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 586.3732,
+              "Y": 144.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4581,
+              "Y": 0.2
+            },
+            "PreSize": {
+              "X": 0.0641,
+              "Y": 0.1139
+            },
+            "LeftMargin": 545.3732,
+            "RightMargin": 652.6268,
+            "TopMargin": 535.0,
+            "BottomMargin": 103.0,
+            "Tag": 107,
+            "ActionTag": 1754266487,
+            "Size": {
+              "X": 82.0,
+              "Y": 82.0
+            },
+            "Name": "JFButtonThongTin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TXBtnHuongDan.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 52,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 703.1382,
+              "Y": 144.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5493,
+              "Y": 0.2
+            },
+            "PreSize": {
+              "X": 0.0641,
+              "Y": 0.1139
+            },
+            "LeftMargin": 662.1382,
+            "RightMargin": 535.8618,
+            "TopMargin": 535.0,
+            "BottomMargin": 103.0,
+            "Tag": 108,
+            "ActionTag": -515779905,
+            "Size": {
+              "X": 82.0,
+              "Y": 82.0
+            },
+            "Name": "JFButtonHuongDan",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "TXBtnThongKe.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 55,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 819.9033,
+              "Y": 144.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6405,
+              "Y": 0.2
+            },
+            "PreSize": {
+              "X": 0.0664,
+              "Y": 0.1194
+            },
+            "LeftMargin": 777.4033,
+            "RightMargin": 417.5967,
+            "TopMargin": 533.0,
+            "BottomMargin": 101.0,
+            "Tag": 109,
+            "ActionTag": -2092509328,
+            "Size": {
+              "X": 85.0,
+              "Y": 86.0
+            },
+            "Name": "JFButtonThongKe",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Dice1.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 14,
+            "Scale9Width": 15,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 606.9987,
+              "Y": 423.9991
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4742,
+              "Y": 0.5889
+            },
+            "PreSize": {
+              "X": 0.0336,
+              "Y": 0.0597
+            },
+            "LeftMargin": 585.4987,
+            "RightMargin": 651.5013,
+            "TopMargin": 274.5009,
+            "BottomMargin": 402.4991,
+            "Tag": 153,
+            "ActionTag": 1866390870,
+            "Size": {
+              "X": 43.0,
+              "Y": 43.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFDice1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Dice2.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 14,
+            "Scale9Width": 15,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 629.9993,
+              "Y": 347.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4922,
+              "Y": 0.4833
+            },
+            "PreSize": {
+              "X": 0.0336,
+              "Y": 0.0597
+            },
+            "LeftMargin": 608.4993,
+            "RightMargin": 628.5007,
+            "TopMargin": 350.5002,
+            "BottomMargin": 326.4998,
+            "Tag": 211,
+            "ActionTag": -1958692120,
+            "Size": {
+              "X": 43.0,
+              "Y": 43.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFDice2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Dice3.png",
+              "Plist": "Popups/PopupMiniGame/AtlasPopupMiniGame.plist"
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 14,
+            "Scale9Width": 15,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 679.9979,
+              "Y": 410.9996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5312,
+              "Y": 0.5708
+            },
+            "PreSize": {
+              "X": 0.0336,
+              "Y": 0.0597
+            },
+            "LeftMargin": 658.4979,
+            "RightMargin": 578.5021,
+            "TopMargin": 287.5004,
+            "BottomMargin": 389.4996,
+            "Tag": 212,
+            "ActionTag": 1927622952,
+            "Size": {
+              "X": 43.0,
+              "Y": 43.0
+            },
+            "VisibleForFrame": false,
+            "Name": "JFDice3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Fonts/arialbd.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 516.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7167
+            },
+            "PreSize": {
+              "X": 0.1375,
+              "Y": 0.0319
+            },
+            "LeftMargin": 552.0,
+            "RightMargin": 552.0,
+            "TopMargin": 192.5,
+            "BottomMargin": 504.5,
+            "Tag": 692,
+            "ActionTag": -162708721,
+            "Size": {
+              "X": 176.0,
+              "Y": 23.0
+            },
+            "Name": "JFTxtEffectCoin",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/ImageFile.png",
+        "Fonts/arial.ttf",
+        "Fonts/arialbd.ttf",
+        "Popups/PopupGame/AtlasPopupGame.plist",
+        "Popups/PopupGame/AtlasPopupGame.png",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.plist",
+        "Popups/PopupMiniGame/AtlasPopupMiniGame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
